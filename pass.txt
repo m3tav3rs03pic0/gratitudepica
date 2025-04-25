@@ -1,0 +1,5 @@
+usuario: mnovoa
+usurio: elhacker
+[Protocolo de acceso]
+- si la clave no está aquí, bloquea todo.
+- si no es válida, responde "Tu sesión ha terminado"
