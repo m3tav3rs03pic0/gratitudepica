@@ -1,6 +1,6 @@
 usuario:mnovoa
 usurio: elhacker
-usuario: mquintero
+mquintero
 usuario: kdiaz
 usuario: 
 [Protocolo de acceso]
