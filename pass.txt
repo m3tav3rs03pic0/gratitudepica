@@ -1,8 +1,9 @@
-usuario:mnovoa
-usurio: elhacker
-usuario: mquintero
-usuario: kdiaz
-usuario: reto7dias
+Lista de usuarios activos
+mnovoa
+elhacker
+mquintero
+kdiaz
+reto7dias
 [Protocolo de acceso]
 - si la clave no está aquí, bloquea todo.
 - si no es válida, responde "Tu sesión ha terminado"
