@@ -1,4 +1,4 @@
-usuario: mnovoa
+usuario: 
 usurio: elhacker
 usuario: mquintero
 usuario: kdiaz
