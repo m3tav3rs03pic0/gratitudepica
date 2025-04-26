@@ -2,7 +2,7 @@ usuario:mnovoa
 usurio: elhacker
 usuario: mquintero
 usuario: kdiaz
-usuario: 
+usuario: reto7dias
 [Protocolo de acceso]
 - si la clave no está aquí, bloquea todo.
 - si no es válida, responde "Tu sesión ha terminado"
